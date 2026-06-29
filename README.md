@@ -1,4 +1,4 @@
-# Tiago Gomez
+# Tiago Gómez
 
 Full Stack Developer focused on building production-ready web products.
 
@@ -16,7 +16,7 @@ SaaS platform for sports clubs to manage leagues, tournaments, registrations, pa
 
 [Website](https://rankeo.com.mx)
 
-### Piri Antiguedades
+### Piri Antigüedades
 
 E-commerce platform connected to Mercado Libre, built to manage and showcase a large catalog of antique and vintage products.
 
