@@ -55,3 +55,4 @@ Next.js · React · TypeScript · Node.js · Express · Supabase · PostgreSQL �
 
 - Portfolio: https://portfolio-tiagogoco.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/tiago-gomez-dev/
+- Email: tiagogocor@gmail.com
